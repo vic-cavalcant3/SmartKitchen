@@ -20,10 +20,7 @@ Ideal para quem busca praticidade, economia e inovação na rotina alimentar.
 
 - **Frontend**: React, HTML, CSS, JavaScript
 - **Estilização**: Tailwind CSS
-- **Gráficos**: Chart.js
-- **Back-end/API**: (se aplicável, ex: Node.js ou outro)
-- **IA**: Integração com APIs externas (ex: OpenAI)
-- **Banco de Dados**: (caso utilize — Firebase, Supabase, etc.)
+- **IA**: Integração com APIs externas (ex: Gemini)
 
 ---
 
