@@ -8,7 +8,6 @@ Ideal para quem busca praticidade, economia e inovação na rotina alimentar.
 
 ## 💡 Funcionalidades
 
-- 📦 **Gestão de Despensa**: Cadastre, edite e acompanhe o estoque de alimentos com alertas de vencimento.
 - 🧠 **IA de Receitas**: Receba sugestões personalizadas com base nos ingredientes disponíveis.
 - 🔍 **Busca Inteligente**: Encontre receitas, alimentos ou utensílios rapidamente com suporte à linguagem natural.
 - 📊 **Dashboard de Consumo**: Visualize o uso dos ingredientes e o histórico de receitas.
