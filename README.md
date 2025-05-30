@@ -17,8 +17,9 @@ Ideal para quem busca praticidade, economia e inovação na rotina alimentar.
 
 ## 🚀 Tecnologias Utilizadas
 
-- **Frontend**: React, HTML, CSS, JavaScript
-- **Estilização**: Tailwind CSS
+- **HTML5**
+- **CSS3**
+- **JavaScript**
 - **IA**: Integração com APIs externas (ex: Gemini)
 
 ---
